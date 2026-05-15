@@ -1,3 +1,39 @@
-db/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Project specific - TRACKING DATA (IMPORTANT!)
 logs/
-template/__pycache__/
+db/
+*.csv
+*.kml
+pid
+
+# Sensitive data
+*.log
+*.txt
+!requirements.txt
+config.ini
+.env
+.secrets
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
