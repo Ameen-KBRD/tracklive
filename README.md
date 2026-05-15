@@ -122,4 +122,5 @@
 git clone https://github.com/Ameen-KBRD/tracklive.git
 cd tracklive
 pip install -r requirements.txt
+chmod +x tracklive.py
 python3 tracklive.py
