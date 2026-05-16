@@ -64,14 +64,6 @@
    - Some countries prohibit any form of location tracking
    - Ignorance of the law is not a defense
 
-### 🏛️ Legal References
-
-| Law | Region | Penalty |
-|-----|--------|---------|
-| CFAA | USA | Up to 10 years imprisonment |
-| GDPR | Europe | Fines up to €20 million |
-| Privacy Act | Various | Civil & criminal penalties |
-| Stalking Laws | Worldwide | Jail time + fines |
 
 ### ✅ Acceptable Use Examples
 
